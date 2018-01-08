@@ -1,0 +1,20 @@
+{
+  "name": "snktwttr",
+  "version": "1.0.0",
+  "description": "An application that scrapes sneaker twitter accounts for tweets matching keywords",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Gainor Bostwick",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^2.3.0",
+    "crawler": "^1.1.2",
+    "dotenv": "^4.0.0",
+    "figlet": "^1.2.0",
+    "lodash": "^4.17.4",
+    "request": "^2.83.0",
+    "request-promise": "^4.2.2"
+  }
+}

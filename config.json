@@ -1,0 +1,9 @@
+{
+  "rateLimit": 4000,
+  "autoRetryOnCrash": true,
+  "matchAllKeywords": false,
+  "keywordsToMatch": 1,
+  "keywords": ["Air", "Jordan", "1"],
+  "twitterNames": ["JustFreshKicks", "solelinks", "BOOSTLINKS", "solelinksWW"],
+  "tweets": 25
+}
